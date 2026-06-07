@@ -33,4 +33,4 @@ Optimized for:
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/glassmorphism-timer.git
+ https://sheikhsiddique722-sketch.github.io/modern-timer-app/
