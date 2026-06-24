@@ -2,7 +2,7 @@
 
 A modern and responsive timer application built using HTML, CSS, and JavaScript with a premium glassmorphism UI.
 
-## ✨ Features
+## ✨ Features 
 
 - Start, Pause, Resume, and Reset Timer
 - Hour, Minute, and Second Input
