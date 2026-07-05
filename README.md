@@ -4,7 +4,7 @@ A modern and responsive timer application built using HTML, CSS, and JavaScript 
 
 ## ✨ Features 
 
-- Start, Pause, Resume, and Reset Timer
+- Start, Pause, Resume, and Reset Timer 
 - Hour, Minute, and Second Input
 - Circular Countdown Animation
 - Smooth Progress Ring
