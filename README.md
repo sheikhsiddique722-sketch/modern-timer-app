@@ -7,7 +7,7 @@ The project focuses on building a modern utility application while demonstrating
 ---  
  
 ## 🌐 Live Demo
- 
+  
 **Website:**
 https://sheikhsiddique722-sketch.github.io/modern-timer-app/ 
 
