@@ -3,7 +3,7 @@
 A sleek and responsive timer application built using **HTML, CSS, and JavaScript**. **Modern Timer App** combines clean functionality with a contemporary user interface, providing an intuitive and distraction-free timing experience for productivity, study sessions, workouts, cooking, and everyday tasks. 
 
 The project focuses on building a modern utility application while demonstrating responsive frontend development, interactive JavaScript functionality, and elegant UI design. Minimal timer applications prioritize clarity, ease of use, and responsive layouts, which inspired this project.  
- 
+  
 ---  
  
 ## 🌐 Live Demo
