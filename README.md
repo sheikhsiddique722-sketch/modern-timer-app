@@ -5,7 +5,7 @@ A sleek and responsive timer application built using **HTML, CSS, and JavaScript
 The project focuses on building a modern utility application while demonstrating responsive frontend development, interactive JavaScript functionality, and elegant UI design. Minimal timer applications prioritize clarity, ease of use, and responsive layouts, which inspired this project.  
   
 ---  
- 
+  
 ## 🌐 Live Demo
   
 **Website:**
